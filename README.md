@@ -8,7 +8,7 @@
 ---
 
 ### 🔍 Quick Technical Overview & Summary:
-Run the Windows Defender troubleshooter and update your antivirus software.
+Disable and re-enable Windows Defender Application Guard to fix the error.
 
 ---
 
